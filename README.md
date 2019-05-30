@@ -26,3 +26,8 @@
 [工厂方法模式](https://www.iszhouhua.com/factory-pattern.html)定义了一个创建对象的接口，但由子类决定要实例化的类是哪一个。工厂方法让类把实例化推迟到子类。
 
 [抽象工厂模式](https://www.iszhouhua.com/factory-pattern.html)提供一个接口，用于创建相关或萤爱对象的家族，而不需要明确指定具体类。
+
+[单例模式](src/singleton)
+------------------------------------------------------------------------------------
+
+[单例模式](https://www.iszhouhua.com/singleton-pattern.html)确保一个类只有一个实例，并提供一个全局访问点。
